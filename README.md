@@ -1,4 +1,4 @@
-# xy-inc
+# Search-Address
 Aplicação feita para acessar a base dos correios (www.buscacep.com.br) e de acordo com o cep ou logradouro informado, trazer a relação de endereços.
 Foi utilizado o servidor web tomcat7 para fazer os testes no client, é possível utilizar outro servidor desde que seja configurado as dependencias no Maven.
 
